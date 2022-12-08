@@ -1,0 +1,25 @@
+.primery,
+.secondary {
+  color: white;
+  cursor: pointer;
+  font-family: RobotoB, sans-serif;
+}
+
+.primery {
+  background: transparent;
+  padding: 19px 40px;
+  border: 1px solid white;
+}
+.primery:hover {
+  color: grey;
+  border: 1px solid gray;
+}
+
+.secondary {
+  background: #4452fe;
+  padding: 20px 40px;
+  border: none;
+}
+.secondary:hover {
+  background: rgb(9 16 102);
+}
